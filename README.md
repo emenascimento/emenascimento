@@ -1,7 +1,7 @@
 ### Olá, pessoal! 👋
 Sejam bem-vindos ao meu perfil do Github.
 
-Me chamo Emerson, tenho 29 anos e moro em Santana de Parnaíba - SP. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
+Me chamo Emerson, tenho 30 anos e moro em Barueri - SP. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e pós-graduado em UX Design pela Faculdade Impacta.
 
 Atualmente estou focado em aprender Frontend, então, neste perfil, irei postar alguns dos meus projetos.
 
@@ -11,6 +11,7 @@ Atualmente estou focado em aprender Frontend, então, neste perfil, irei postar 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/>
 </p>
 
 ### 📫 Contatos:
