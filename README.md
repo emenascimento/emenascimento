@@ -3,7 +3,7 @@ Sejam bem-vindos ao meu perfil do Github.
 
 Me chamo Emerson, tenho 30 anos e moro em Barueri - SP. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e pós-graduado em UX Design pela Faculdade Impacta.
 
-Atualmente estou focado em aprender Frontend, então, neste perfil, irei postar alguns dos meus projetos.
+Atualmente estou focado em aprender um pouco de programação, então, neste perfil, irei postar alguns dos meus projetos.
 
 ### 🌱 Estou aprendendo:
 <p>
