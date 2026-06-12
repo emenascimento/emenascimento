@@ -1,4 +1,4 @@
-### Olá, pessoal! 👋
+### Olá! 👋
 Sejam bem-vindos ao meu perfil do Github.
 
 Me chamo Emerson, tenho 32 anos e moro em Santana de Parnaíba - SP. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e pós-graduado em UX Design pela Faculdade Impacta.
